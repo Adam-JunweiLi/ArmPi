@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/">
+    <file>images/stop.png</file>
+    <file>images/play.png</file>
+    <file>images/xArmUi.png</file>
+    <file>images/index.png</file>
+    <file>images/xArm.png</file>
+  </qresource>
+</RCC>
